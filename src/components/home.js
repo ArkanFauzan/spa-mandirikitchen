@@ -1,18 +1,14 @@
 import React from "react"
 import { Button} from 'react-bootstrap';
 
-import {Link} from 'react-router-dom'
+import {Link,BrowserRouter as Router} from 'react-router-dom'
 import {listService} from "./home/service"
 import {JumbotronComponenet} from "./home/jumbotron"
 
 export class HomeComponent extends React.Component{
-    _handleClick = (event)=>{
-        event.preventDefault()
-        window.redirect("/products")
-    }
     render(){
         return(
-            <>
+            <Router>
             {/* jumbotron */}
             <JumbotronComponenet />
             
@@ -22,11 +18,11 @@ export class HomeComponent extends React.Component{
                 {listService}
 
                 <div className="my-4 col-12">
-                    <Button variant="primary" size="lg" style={{margin:'auto'}}><a style={{color:'white',textDecoration:'none'}} href="/products">Let's See Our Product -&gt;</a></Button>
+                    <Button variant="primary" size="lg" style={{margin:'auto'}}><Link style={{color:'white',textDecoration:'none'}} to="products">Let's See Our Product -&gt;</Link></Button>
                 </div>
             </div>
 
-            </>
+            </Router>
         )
     }
 }
