@@ -2,14 +2,14 @@ import React from "react"
 import { Alert, Card, Button
 } from 'react-bootstrap';
 
-import {Link} from 'react-router-dom'
+import {Link, BrowserRouter as Router} from 'react-router-dom'
 import {listService} from "./home/service"
 import {JumbotronComponenet} from "./home/jumbotron"
 
 export class HomeComponent extends React.Component{
     render(){
         return(
-            <>
+            <Router>
             {/* jumbotron */}
             <JumbotronComponenet />
             
@@ -23,7 +23,7 @@ export class HomeComponent extends React.Component{
                 </div>
             </div>
 
-            </>
+            </Router>
         )
     }
 }

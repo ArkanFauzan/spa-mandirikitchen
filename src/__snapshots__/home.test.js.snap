@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home is renders correctly 1`] = `
+Array [
+  <img
+    src="/img/cv-crop.jpg"
+    style={
+      Object {
+        "position": "sticky",
+        "top": "0",
+        "zIndex": "-1",
+      }
+    }
+    width="100%"
+  />,
+  <div
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <div
+      className="fade alert alert-light text-dark show"
+      role="alert"
+    >
+      <h1
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        CV Mandiri Kitchen Perkasa
+      </h1>
+      <h2
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        PERALATAN DAPUR RESTORAN
+      </h2>
+    </div>
+    <img
+      src="img/our-service.jpg"
+      style={
+        Object {
+          "display": "block",
+          "margin": "auto",
+        }
+      }
+      width="700px"
+    />
+  </div>,
+  <div
+    className="row pt-2 bg-light"
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <div
+      className="col-12 col-lg-4 my-2"
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "margin": "auto",
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          height="180px"
+          src="img/24-7.jpg"
+          width="286px"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            <h3>
+              Full Support & Fast Response
+            </h3>
+          </div>
+          <p
+            className="card-text"
+          >
+            0812 xxxx xxxx (A.N. Gunadi) 
+            <br />
+            0821 xxxx xxxx (A.N. Heri)
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-12 col-lg-4 my-2"
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "margin": "auto",
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          height="180px"
+          src="img/quality.png"
+          width="286px"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            <h3>
+              Kualitas Terjaga
+            </h3>
+            <br />
+          </div>
+          <p
+            className="card-text"
+          >
+            Kami berkomitmen untuk memberikan produk terbaik
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-12 col-lg-4 my-2"
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "margin": "auto",
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          height="180px"
+          src="img/free.jpg"
+          width="286px"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            <h3>
+              Free Konsultasi, Survei, dan Design 
+            </h3>
+          </div>
+          <p
+            className="card-text"
+          >
+            Kepuasan pelanggan adalah yang utama
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="my-4 col-12"
+    >
+      <button
+        className="btn btn-primary btn-lg"
+        disabled={false}
+        style={
+          Object {
+            "margin": "auto",
+          }
+        }
+        type="button"
+      >
+        <a
+          href="/products"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "white",
+              "textDecoration": "none",
+            }
+          }
+        >
+          Let's See Our Product -&gt;
+        </a>
+      </button>
+    </div>
+  </div>,
+]
+`;

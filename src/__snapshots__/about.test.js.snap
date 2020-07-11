@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About is renders correctly 1`] = `
+<div
+  className="container"
+>
+  <img
+    src="img/cv-crop.jpg"
+    style={
+      Object {
+        "display": "block",
+        "margin": "auto",
+      }
+    }
+    width="100%"
+  />
+  <h2
+    className="my-4"
+  >
+    CV Mandiri Kitchen Perkasa
+  </h2>
+  <p
+    className="mb-4"
+    style={
+      Object {
+        "fontSize": "20px",
+        "textAlign": "justify",
+      }
+    }
+  >
+    Mandiri Kitchen Perkasa adalah sebuah perusahaan yang bergerak dibidang disain dapur restoran serta pembuatan peralatan dapur komersial. Disain atau perencanaan dapur restoran sangat diperlukan agar ruang dapur restoran anda menjadi efisien dan fungsional serta biaya yang dikeluarkan sesuai dengan hasil yg diinginkan karena Penataan Peralatan Memasak yang TEPAT dan BENAR.  Ruang lingkup dan spesifikasi pekerjaan kami meliputi Desain dan perencanaan dapur komersial, Pembuatan dan pengadaan alat alat dapur komersial, instalasi ducting dan instalasi gas restoran. Yang dimaksud Dapur Komersial disini adalah dapur yang dipakai untuk keperluan usaha, seperti Dapur Restoran, Dapur Hotel, Dapur Asrama maupun Dapur Catering
+  </p>
+  <h2>
+    Kontak kami
+  </h2>
+  <table
+    className="my-4"
+  >
+    <tr>
+      <td>
+        Gunadi
+      </td>
+      <td>
+           : 0821 xxxx xxxx
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Heri
+      </td>
+      <td>
+           : 0812 xxxx xxxx
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Website
+      </td>
+      <td>
+           : mandirikitchenperkasa.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Email
+      </td>
+      <td>
+           : mandirikitchenperkasa@gmail.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Alamat
+      </td>
+      <td>
+           : Depok, Jawa Barat
+      </td>
+    </tr>
+  </table>
+  <h2>
+    Atau melalui form berikut:
+  </h2>
+  <form
+    onSubmit={[Function]}
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column",
+        "maxWidth": "600px",
+      }
+    }
+  >
+    <label>
+      Nama
+    </label>
+    <input
+      name="nama"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <label>
+      Email
+    </label>
+    <input
+      name="email"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <label>
+      Pesan
+    </label>
+    <textarea
+      name="pesan"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      className="my-4 btn btn-primary"
+      type="submit"
+    >
+      Kirim
+    </button>
+  </form>
+</div>
+`;
+
+exports[`About is renders correctly 2`] = `
+<div
+  className="container"
+>
+  <img
+    src="img/cv-crop.jpg"
+    style={
+      Object {
+        "display": "block",
+        "margin": "auto",
+      }
+    }
+    width="100%"
+  />
+  <h2
+    className="my-4"
+  >
+    CV Mandiri Kitchen Perkasa
+  </h2>
+  <p
+    className="mb-4"
+    style={
+      Object {
+        "fontSize": "20px",
+        "textAlign": "justify",
+      }
+    }
+  >
+    Mandiri Kitchen Perkasa adalah sebuah perusahaan yang bergerak dibidang disain dapur restoran serta pembuatan peralatan dapur komersial. Disain atau perencanaan dapur restoran sangat diperlukan agar ruang dapur restoran anda menjadi efisien dan fungsional serta biaya yang dikeluarkan sesuai dengan hasil yg diinginkan karena Penataan Peralatan Memasak yang TEPAT dan BENAR.  Ruang lingkup dan spesifikasi pekerjaan kami meliputi Desain dan perencanaan dapur komersial, Pembuatan dan pengadaan alat alat dapur komersial, instalasi ducting dan instalasi gas restoran. Yang dimaksud Dapur Komersial disini adalah dapur yang dipakai untuk keperluan usaha, seperti Dapur Restoran, Dapur Hotel, Dapur Asrama maupun Dapur Catering
+  </p>
+  <h2>
+    Kontak kami
+  </h2>
+  <table
+    className="my-4"
+  >
+    <tr>
+      <td>
+        Gunadi
+      </td>
+      <td>
+           : 0821 xxxx xxxx
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Heri
+      </td>
+      <td>
+           : 0812 xxxx xxxx
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Website
+      </td>
+      <td>
+           : mandirikitchenperkasa.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Email
+      </td>
+      <td>
+           : mandirikitchenperkasa@gmail.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Alamat
+      </td>
+      <td>
+           : Depok, Jawa Barat
+      </td>
+    </tr>
+  </table>
+  <h2>
+    Atau melalui form berikut:
+  </h2>
+  <form
+    onSubmit={[Function]}
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column",
+        "maxWidth": "600px",
+      }
+    }
+  >
+    <label>
+      Nama
+    </label>
+    <input
+      name="nama"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <label>
+      Email
+    </label>
+    <input
+      name="email"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <label>
+      Pesan
+    </label>
+    <textarea
+      name="pesan"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      className="my-4 btn btn-primary"
+      type="submit"
+    >
+      Kirim
+    </button>
+  </form>
+</div>
+`;

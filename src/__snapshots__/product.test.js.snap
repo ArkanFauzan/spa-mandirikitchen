@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product is renders correctly 1`] = `
+<div
+  className="container-fluid"
+  style={
+    Object {
+      "marginTop": "100px",
+    }
+  }
+>
+  <form>
+    <label>
+      <p
+        style={
+          Object {
+            "fontSize": "25px",
+            "textAlign": "justify",
+          }
+        }
+      >
+        Tampilkan berdasarkan : 
+      </p>
+    </label>
+    <select
+      name="filter"
+      onChange={[Function]}
+      style={
+        Object {
+          "fontSize": "25px",
+          "padding": "7px 15px",
+        }
+      }
+      value="semua kategori"
+    >
+      <option
+        value="semua kategori"
+      >
+        Semua Kategori
+      </option>
+      <option
+        value="area memasak"
+      >
+        Area Memasak
+      </option>
+      <option
+        value="area mencuci"
+      >
+        Area Mencuci
+      </option>
+    </select>
+  </form>
+</div>
+`;
+
+exports[`Product is renders correctly 2`] = `
+<div
+  className="container-fluid"
+  style={
+    Object {
+      "marginTop": "100px",
+    }
+  }
+>
+  <form>
+    <label>
+      <p
+        style={
+          Object {
+            "fontSize": "25px",
+            "textAlign": "justify",
+          }
+        }
+      >
+        Tampilkan berdasarkan : 
+      </p>
+    </label>
+    <select
+      name="filter"
+      onChange={[Function]}
+      style={
+        Object {
+          "fontSize": "25px",
+          "padding": "7px 15px",
+        }
+      }
+      value="semua kategori"
+    >
+      <option
+        value="semua kategori"
+      >
+        Semua Kategori
+      </option>
+      <option
+        value="area memasak"
+      >
+        Area Memasak
+      </option>
+      <option
+        value="area mencuci"
+      >
+        Area Mencuci
+      </option>
+    </select>
+  </form>
+</div>
+`;
+
+exports[`Product is renders correctly 3`] = `
+<div
+  className="container-fluid"
+  style={
+    Object {
+      "marginTop": "100px",
+    }
+  }
+>
+  <form>
+    <label>
+      <p
+        style={
+          Object {
+            "fontSize": "25px",
+            "textAlign": "justify",
+          }
+        }
+      >
+        Tampilkan berdasarkan : 
+      </p>
+    </label>
+    <select
+      name="filter"
+      onChange={[Function]}
+      style={
+        Object {
+          "fontSize": "25px",
+          "padding": "7px 15px",
+        }
+      }
+      value="semua kategori"
+    >
+      <option
+        value="semua kategori"
+      >
+        Semua Kategori
+      </option>
+      <option
+        value="area memasak"
+      >
+        Area Memasak
+      </option>
+      <option
+        value="area mencuci"
+      >
+        Area Mencuci
+      </option>
+    </select>
+  </form>
+</div>
+`;
