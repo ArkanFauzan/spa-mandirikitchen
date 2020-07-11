@@ -1,13 +1,9 @@
 import React from 'react';
-import { Navbar, NavDropdown, Button,
+import { Navbar,Button,
     Nav, Form, FormControl
 } from 'react-bootstrap';
 
-import {BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 export function NavbarComponent(){
     return(

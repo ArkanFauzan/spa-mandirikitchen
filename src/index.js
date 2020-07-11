@@ -7,8 +7,6 @@ import * as serviceWorker from './serviceWorker';
 // import BarangContext
 import {BarangContext} from "./barangContext"
 
-import context from 'react-bootstrap/esm/AccordionContext';
-
 const barang = {barang:[
       {
           kategori:"area memasak",

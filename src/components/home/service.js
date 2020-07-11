@@ -1,6 +1,5 @@
 import React from "react"
-import { Alert, Card, Button
-} from 'react-bootstrap';
+import { Card} from 'react-bootstrap';
 
 const service = [
     {

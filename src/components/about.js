@@ -17,8 +17,6 @@ export class AboutComponent extends React.Component{
 
     render(){
 
-        const {nama, email, pesan} = this.state
-
         return(
             <div className="container">
                 <img style={{display:"block", margin:"auto"}} width="100%"  src="img/cv-crop.jpg" />
